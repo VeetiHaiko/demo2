@@ -28,7 +28,7 @@ public class App
 
                 switch(i) {
                     case 1:
-                        System.out.println("Mikä laji?:");
+                        System.out.println("Mikä laji?");
                         String species = sc.nextLine();
                         System.out.println("Anna eläimen nimi:");
                         String name=sc.nextLine();
